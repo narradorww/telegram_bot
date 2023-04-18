@@ -1,0 +1,21 @@
+[
+    {
+      "pattern": "qual o valor do produto",
+      "response": "Olá! Para verificar o valor dos produtos, envie o comando /catalogo."
+    },
+    {
+      "pattern": "como fazer um pedido",
+      "response": "Para fazer um pedido, selecione o produto desejado no catálogo e siga as instruções fornecidas."
+    },
+    {
+        "pattern": "(?i)qual o valor do a[cç]a[íi]",
+        "response": "Olá! Para verificar o valor dos produtos, envie o comando /catalogo."
+    },
+    {
+        "pattern": "(?i)qual o valor do cupua[cç]u",
+        "response": "Olá! Para verificar o valor dos produtos, envie o comando /catalogo."
+    }
+
+    
+  ]
+  
